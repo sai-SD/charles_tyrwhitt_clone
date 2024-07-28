@@ -1,0 +1,254 @@
+/* HomePage.css */
+.container {
+  position: relative;
+  width: 100%;
+  /* max-width: 800px;  */
+  /* margin: auto; */
+  overflow: hidden;
+  /* background: url('/EOSS_mobile_UK.jpg'); */
+}
+.img {
+  display: none;
+}
+
+video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.overlay-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  /* font-size: 2em; */
+  text-align: center;
+  margin-top: 42px;
+  /* line-height: 68px; */
+}
+.text-one {
+  font-size: 80px;
+  font-weight: 550;
+  line-height: 100px;
+  color: white;
+}
+.text-two {
+  font-size: 40px;
+  font-weight: 700;
+  color: #f7d22f;
+}
+.btn {
+  width: 230px;
+  color: #001f49;
+  height: 47px;
+  border: none;
+  background: white;
+  font-size: 13.5px;
+  border-radius: 4px;
+  margin: 5px 25px;
+}
+.carousel {
+  display: none;
+}
+#squareImage{
+  display: none;
+}
+#slide-squareImage{
+  width: 100%;
+  /* display: flex; */
+  /* flex-wrap: wrap; */
+  height: auto;
+  margin-top: 30px;
+}
+.wedding {
+  width: 100%;
+  margin: 30px 0px;
+  object-fit: cover;
+  position: relative;
+}
+.img-one {
+  width: 100%;
+}
+.img-two {
+  display: none;
+}
+.wedoverlay-text {
+  position: absolute;
+  top: 50%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  color: white;
+  width: 600px;
+  text-align: left;
+}
+.wedoverlay-text p{
+  width: 400px;
+  margin-top: 30px;
+}
+.wedtext-one {
+  font-size: 3.5vw;
+  font-weight: 600;
+  color: white;
+}
+.wedtext-two {
+  /* font-weight: 500; */
+  font-size: 1.4vw;
+  color: white;
+}
+.button {
+  width: 230px;
+  color: #001f49;
+  height: 47px;
+  border: none;
+  background: white;
+  font-size: 13.5px;
+  border-radius: 4px;
+  margin: 10px 0px;
+}
+.editorial{
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: space-around; */
+  height: auto;
+  margin-top: 30px;
+}
+.edit-head{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin: 1vw;
+}
+.edit-head .head2{
+  text-decoration: underline;
+  font-size: 0.8vw;
+}
+.edit-head .head1{
+  font-size: 1vw;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+.edit-head .head2:hover{
+  text-decoration: none;
+}
+@media (max-width: 800px) {
+  video {
+    display: none;
+  }
+  .img {
+    display: block;
+    width: 100%;
+  }
+  .overlay-text {
+    margin-top: 14vw;
+    top: 74%;
+  }
+  .text-one {
+    font-size: 4vw;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+    font-weight: 550;
+    line-height: 7vw;
+    color: #001f49;
+  }
+  .text-two {
+    font-size: 3.5vw;
+    letter-spacing: 1px;
+    font-weight: 700;
+    color: #bc2e35;
+  }
+  .btn {
+    width: 32vw;
+    height: 6.5vw;
+  }
+  .carousel {
+    display: flex;
+    flex-direction: column;
+    /* margin: 0px; */
+    cursor: pointer;
+  }
+  #squareImage {
+    display: flex;
+    height: auto;
+    flex-wrap: wrap;
+    margin-top: 0px;
+    width: 100%;
+    justify-content: center;
+  }
+  #slide-squareImage{
+    display: none;
+  }
+  .wedding {
+    width: 100%;
+    height: 100vw;
+    margin: 30px 0px;
+    position: relative;
+    /* border: 1px solid; */
+  }
+  .img-one {
+    display: none;
+  }
+  .img-two {
+    display: block;
+    width: 100%;
+    height: inherit;
+    object-fit: cover;
+  }
+  .wedoverlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    width: 55vw;
+    text-align: center;
+  }
+  .wedoverlay-text p{
+    width:inherit;
+    margin-top: 0px;
+  }
+  .wedtext-one {
+    font-size: 7vw;
+    font-weight: 600;
+  }
+  .wedtext-two {
+    font-weight: 500;
+    font-size: 2.3vw;
+  }
+  .edit-head .head2{
+    text-decoration: underline;
+    font-size: 1.6vw;
+  }
+  .edit-head .head1{
+    font-size: 1.7vw;
+    font-weight: 500;
+    letter-spacing: 0.1vw;
+  }
+}
+
+@media (max-width: 400px) {
+  .btn {
+    width: 34vw;
+    height: 9vw;
+    /* margin: px; */
+    font-size: 3vw;
+  }
+  .wedtext-one {
+    font-size: 8vw;
+    font-weight: 600;
+  }
+  .wedtext-two {
+    font-weight: 500;
+    font-size: 3vw;
+  }
+  .edit-head .head2{
+    text-decoration: underline;
+    font-size: 1.8vw;
+  }
+  .edit-head .head1{
+    font-size: 2.4vw;
+    font-weight: 500;
+    letter-spacing: 1px;
+  }
+}

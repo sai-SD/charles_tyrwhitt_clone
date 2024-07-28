@@ -1,0 +1,42 @@
+<svg width="17" height="23" viewBox="0 0 17 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>clipboard</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-3513 137)">
+<g id="clipboard">
+<g id="clipboard">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(3513 -137)" fill="#001F49"/>
+</g>
+<g id="Vector 45  x28 Stroke x29">
+<g id="Group">
+<g id="path1 fill">
+<use xlink:href="#path1_fill" transform="translate(3516.3 -129.361)" fill="#001F49"/>
+</g>
+</g>
+</g>
+<g id="Vector 45  x28 Stroke x29  1">
+<g id="Group">
+<g id="path1 fill 1">
+<use xlink:href="#path2_fill" transform="translate(3516.3 -126.623)" fill="#001F49"/>
+</g>
+</g>
+</g>
+<g id="Vector 45  x28 Stroke x29  2">
+<g id="Group">
+<g id="path2 fill">
+<use xlink:href="#path3_fill" transform="translate(3516.35 -123.842)" fill="#001F49"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 16.5185 22.7938L 16.5185 3.50674L 13.2148 3.50674L 13.2148 2.06021L 10.3458 2.06021C 10.3458 0.92052 9.38949 0 8.25927 0C 7.12906 0 6.17272 0.92052 6.17272 2.06021L 3.30371 2.06021L 3.30371 3.50674L 0 3.50674L 0 22.7938L 16.5185 22.7938ZM 7.216 3.11224L 7.216 2.06021C 7.216 1.49037 7.69417 1.00819 8.25927 1.00819C 8.82438 1.00819 9.30255 1.49037 9.30255 2.06021L 9.30255 3.11224L 12.1716 3.11224L 12.1716 4.77794L 4.34699 4.77794L 4.34699 3.11224L 7.216 3.11224ZM 13.2148 5.78613L 13.2148 4.55877L 15.4753 4.55877L 15.4753 21.7418L 1.04328 21.7418L 1.04328 4.55877L 3.30371 4.55877L 3.30371 5.78613L 13.2148 5.78613Z"/>
+<path id="path1_fill" d="M 9.91104 1.05202L 0 1.05202L 0 -1.33772e-06L 9.91104 -1.33772e-06L 9.91104 1.05202Z"/>
+<path id="path2_fill" d="M 9.91104 1.05202L 0 1.05202L 0 1.33772e-06L 9.91104 1.33772e-06L 9.91104 1.05202Z"/>
+<path id="path3_fill" d="M 7.82462 1.05202L 4.2451e-05 1.05202L 4.2451e-05 0L 7.82462 0L 7.82462 1.05202Z"/>
+</defs>
+</svg>
