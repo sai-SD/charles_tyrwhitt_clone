@@ -1,0 +1,32 @@
+.slick-prev, .slick-next {
+    background-color: rgba(0, 0, 0, 0.733);
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-left: 32px;
+    margin-right: 30px;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+    /* color: red; */
+  }
+  
+  .slick-prev:before, .slick-next:before {
+    font-size: 20px;
+    /* color: white; */
+  }
+.slick-slide {
+    padding: 0 5px;
+  }
+  
+  .slider-container .slick-list {
+    margin: 0vw 0vw;
+  }
+  @media (max-width:800px){
+    .slider-container .slick-list {
+        margin: 0vw 8vw
+    }
+  }
+  
+  

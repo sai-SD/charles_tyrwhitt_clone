@@ -1,0 +1,39 @@
+.dInfo{
+    display: flex;
+    z-index: 10;
+    line-height: 22px;
+    position:static;
+    width: 100%;
+    opacity: 1;
+    height: 30vw;
+    background-color: white;
+    justify-content: space-around;
+    font-size: small;
+}
+.dInfo p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.see{
+    display: flex;
+}
+.notsee{
+    display: none;
+}
+
+.dInfo p{
+    color: #5e5e5e;
+    line-height: 3px;
+}
+.dInfo b{
+    line-height: 1px;
+}
+.secNavImg{
+    display: flex;
+}
+
+.secNavImg > img{
+    height: 200px;
+    margin: 7px;
+}
