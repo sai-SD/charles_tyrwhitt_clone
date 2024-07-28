@@ -1,0 +1,233 @@
+/* ******************************************* */
+/* FOOTER payment STYLES */
+.icon-padlock {
+    background: url('https://www.charlestyrwhitt.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/en_US/v1721286708710/../images/icons/svg-icons/padlock_blue.svg') no-repeat 0 0;
+    padding: 3px 0 3px 20px;
+    background-size: 13px 18px;
+}
+
+.payment-box,
+.payment-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px 0px;
+    font-family: sans-serif;
+    color: rgb(0, 31, 73);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+    padding: 3px 0px 3px 20px;
+}
+
+/* *********************************** */
+/* FOOTER sponser logo STYLES */
+.sponser-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0px;
+}
+
+.ltd-info {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    color: rgb(0, 31, 73);
+    font-size: 14px;
+}
+
+.ltd-info p:nth-child(even) {
+    justify-self: right;
+}
+.ltd-info p:nth-child(1),.ltd-info p:nth-child(2) {
+    color: rgb(94, 94, 94);
+}
+
+.payment-box ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.payment-box ul li {
+    list-style: none;
+}
+
+/* *********************************************************** */
+/* FOOTER social media logo STYLES */
+.fa-facebook {
+    background: url(https://www.charlestyrwhitt.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dwf8411416/images/icons/social-media/icon_facebook.svg) no-repeat 50% 0/cover;
+}
+
+.fa-instagram {
+    background: url(https://www.charlestyrwhitt.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw3d04813c/images/icons/social-media/icon_instagram.svg) no-repeat 50% 0/cover;
+}
+
+.fa-twitter {
+    background: url(https://www.charlestyrwhitt.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw6adf21ea/images/icons/social-media/icon_twitter.svg) no-repeat 50% 0/cover;
+}
+
+.fa {
+    height: 2rem;
+    width: 2rem;
+    display: flex;
+    margin-left: 0px;
+    position: relative;
+    left: -10px;
+}
+
+.social-media-logo ul li {
+    list-style: none;
+}
+
+.social-media-logo ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+
+/* *********************************************************** */
+/* FOOTER NAV STYLES */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bottom-border {
+    border-bottom: .1rem solid #e8e8e8;
+}
+
+.main-area {
+    margin: auto;
+}
+
+.footer-nav {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-top: 20px;
+    font-family: Futura, Arial;
+    padding-bottom: 30px;
+}
+
+.col-nav {
+    padding: 0px 18px;
+    height: inherit;
+}
+
+.item-menu h2 {
+    color: rgb(0, 31, 73);
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 18px;
+    margin: 10px 0px 15px;
+}
+
+.item-menu ul li {
+    list-style: none;
+    color: rgba(94, 94, 94);
+    font-size: 2vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    margin: 0px 0px 15px;
+    display: block;
+    text-transform: uppercase;
+}
+
+@media (min-width: 800px) {
+    .main-area {
+        width: 800px;
+    }
+    .col-nav {
+        width: 235px;
+    }
+    .item-menu h2 {
+        width: 199px;
+    }
+    .item-menu ul li{
+        font-size: 1vw;
+    }
+}
+
+/* *************************** */
+/* footer full bar css */
+.full-bar {
+    width: 100%;
+    height: 85px;
+    background-color: #EBEDF3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fullBarContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+}
+
+.fullBarText {
+    color: rgb(0, 31, 72);
+    font-size: 12.5px;
+}
+
+.fullBarInputBox {
+    display: flex;
+}
+
+.fullBarInputBox input {
+    border: 1px solid rgb(0, 31, 72);
+    width: 250px;
+    height: 35px;
+    font-size: 11px;
+}
+
+.gThan {
+    height: 35px;
+    width: 38.6px;
+    font-size: 16px;
+    background-color: rgb(0, 31, 73);
+    color: #ffff;
+    border-radius: 0.15rem;
+}
+
+@media (max-width: 768px) {
+    .basicButton {
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .full-bar {
+        width: 100% !important;
+        width: auto;
+    }
+
+    .fullBarContainer {
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: column;
+        gap: 10px;
+        width: 290px;
+    }
+
+    .fullBarText {
+        text-align: center;
+        font-size: 12px;
+    }
+    .ltd-info {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    .ltd-info p:nth-child(even) {
+        justify-self: center;
+    }
+}
