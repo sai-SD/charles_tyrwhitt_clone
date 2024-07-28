@@ -1,0 +1,310 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Non-Iron Twill Shirt - White",
+      "price": 119,
+      "multiBuy": "$64.75 MULTIBUY",
+      "description": "With its distinctive diagonal pattern and smooth, silky finish, it's no wonder this twill is one of our bestsellers.",
+      "rating": 4.7,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw35176377/hi-res/FON0409WHT_COLLAR_DETAIL.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "2",
+      "name": "Spread Collar Non-Iron Twill Shirt - White",
+      "price": 119,
+      "multiBuy": "$64.75 MULTIBUY",
+      "description": "With its distinctive diagonal pattern and smooth, silky finish, it's no wonder this twill is one of our bestsellers.",
+      "rating": 4.7,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw94487adb/hi-res/TRC0270DGY_MODEL_FULL.jpg?sw=860&sh=1080&sm=fit&q=42"
+    },
+    {
+      "id": "3",
+      "name": "Spread Collar Non-Iron Stretch Kensington Weave Shirt - White",
+      "price": 129,
+      "multiBuy": "$64.75 MULTIBUY",
+      "description": "The Kensington weave shirt is our most versatile yet. It's ready to be your go-to for events and office wear.",
+      "rating": null,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw947e3c91/hi-res/FON2620WHT_COLLAR_DETAIL.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "4",
+      "name": "Non-Iron Poplin Shirt - White",
+      "price": 109,
+      "multiBuy": "$64.75 MULTIBUY",
+      "description": "Smart, comfortable and breathable, too – we think we've created a summer classic. Meet our non-iron poplin plain shirt.",
+      "rating": 4.6,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw543071a0/hi-res/FON0216WHT_COLLAR_DETAIL.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "5",
+      "name": "Non-Iron Royal Oxford Shirt - Navy",
+      "price": 119,
+      "multiBuy": "$64.75 MULTIBUY",
+      "description": "Some shirts are all about the subtleties, and for our non-iron Royal Oxford, the weave takes centre stage.",
+      "rating": 4.6,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw2cf33241/hi-res/FON2615NAV_COLLAR_DETAIL.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "6",
+      "name": "Non-Iron Twill Shirt - Sky Blue",
+      "price": 119,
+      "multiBuy": "$64.75 MULTIBUY",
+      "description": "With its distinctive diagonal pattern and smooth, silky finish, it's no wonder this twill is one of our bestsellers.",
+      "rating": 4.7,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw0d12db1c/hi-res/FON0409SKY_COLLAR_DETAIL.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "7",
+      "name": "Semi-Spread Collar Non-Iron Stretch Texture Grid Shirt - Ice Blue",
+      "price": 129,
+      "multiBuy": "$64.75 MULTIBUY",
+      "description": "No time to change between work and play? Our desk-to-dinner non-iron stretch textured shirt is what you need.",
+      "rating": 4.6,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw9217a3b7/hi-res/FOB0763CEB_COLLAR_DETAIL.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "8",
+      "name": "Semi-Spread Collar Egyptian Cotton Ascot Weave Shirt - White",
+      "price": 129,
+      "multiBuy": "$64.75 MULTIBUY",
+      "description": "Our new Ascot weave is crafted from pure Egyptian cotton and designed to have a luxurious appearance.",
+      "rating": null,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw7ca1a557/hi-res/FOR2380WHT_COLLAR_DETAIL.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "9",
+      "name": "Non-Iron Royal Oxford Stripe Shirt - Sky Blue",
+      "price": 119,
+      "multiBuy": "$64.75 MULTIBUY",
+      "description": "Some shirts are all about the subtleties, and for our non-iron Royal Oxford, the weave takes centre stage.",
+      "rating": 4.6,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwb1b72302/hi-res/FON2613SKY_COLLAR_DETAIL.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "10",
+      "name": "Spread Collar Non-Iron Stretch Kensington Weave Shirt - Light Blue",
+      "price": 129,
+      "multiBuy": "$64.75 MULTIBUY",
+      "description": "The Kensington weave shirt is our most versatile yet. It's ready to be your go-to for events and office wear.",
+      "rating": null,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw0b0159ef/hi-res/FON2620LBU_COLLAR_DETAIL.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "11",
+      "name": "Ultimate Non-Iron Chinos - Steel Blue",
+      "price": 129,
+      "multibuy": "$109 MULTIBUY",
+      "description": "We named these bestselling chinos 'Ultimate' for a reason. Once you've tried a pair, you'll soon see why we did.",
+      "rating": 4.7,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwdd0a6d9b/TRC0274STL_MODEL_FULL_FRONT.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "12",
+      "name": "Ultimate Non-Iron Chinos - Stone",
+      "price": 129,
+      "multibuy": "$109 MULTIBUY",
+      "description": "We named these bestselling chinos 'Ultimate' for a reason. Once you've tried a pair, you'll soon see why we did.",
+      "rating": 4.7,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw25b3e3c8/hi-res/TRC0270STN_MODEL_FULL.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "13",
+      "name": "Ultimate Non-Iron Chinos - Navy",
+      "price": 129,
+      "multibuy": "$109 MULTIBUY",
+      "description": "We named these bestselling chinos 'Ultimate' for a reason. Once you've tried a pair, you'll soon see why we did.",
+      "rating": 4.7,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw8345d5d4/hi-res/TRC0270NAV_MODEL_SEATED.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "14",
+      "name": "Ultimate Non-Iron Chinos - Taupe",
+      "price": 129,
+      "multibuy": "$109 MULTIBUY",
+      "description": "We named these bestselling chinos 'Ultimate' for a reason. Once you've tried a pair, you'll soon see why we did.",
+      "rating": 4.7,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw54b8cdf5/hi-res/TRC0279TPE_MODEL_FULL_FRONT.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "15",
+      "name": "Smart Stretch Texture Pants - Denim Blue",
+      "price": 149,
+      "multibuy": "$129 MULTIBUY",
+      "description": "Are they suit pants? Are they chinos? No, our new smart texture pants are their own special breed.",
+      "rating": 4.4,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwe499ed76/TRT0437DEN_MODEL_FULL_FRONT.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "16",
+      "name": "Ultimate Non-Iron Chinos - Black",
+      "price": 129,
+      "multibuy": "$109 MULTIBUY",
+      "description": "We named these bestselling chinos 'Ultimate' for a reason. Once you've tried a pair, you'll soon see why we did.",
+      "rating": 4.7,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwced3d02a/hi-res/TRC0270BLK_MODEL_FULL.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "17",
+      "name": "Ultimate Non-Iron Chinos - Tan",
+      "price": 129,
+      "multibuy": "$109 MULTIBUY",
+      "description": "We named these bestselling chinos 'Ultimate' for a reason. Once you've tried a pair, you'll soon see why we did.",
+      "rating": 4.7,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw865eb44c/hi-res/TRC0270TAN_MODEL_FULL.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "18",
+      "name": "Smart Stretch Texture Pants - Charcoal Grey",
+      "price": 149,
+      "multibuy": "$129 MULTIBUY",
+      "description": "Are they suit pants? Are they chinos? No, our new smart texture pants are their own special breed.",
+      "rating": 4.4,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwdb46527e/hi-res/TRT0437CHA_MODEL_FULL_FRONT.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "19",
+      "name": "Ultimate Non-Iron Chinos - Light Grey",
+      "price": 129,
+      "multibuy": "$109 MULTIBUY",
+      "description": "We named these bestselling chinos 'Ultimate' for a reason. Once you've tried a pair, you'll soon see why we did.",
+      "rating": 4.7,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwe9a24655/hi-res/TRC0274LGY_MODEL_FULL.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "20",
+      "name": "Ultimate Non-Iron Chinos - Dark Grey",
+      "price": 129,
+      "multibuy": "$109 MULTIBUY",
+      "description": "We named these bestselling chinos 'Ultimate' for a reason. Once you've tried a pair, you'll soon see why we did.",
+      "rating": 4.7,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw94487adb/hi-res/TRC0270DGY_MODEL_FULL.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "21",
+      "name": "Smart Jersey Polo - Navy",
+      "price": 109,
+      "multibuy": "$64.75 MULTIBUY",
+      "description": "This is the most refined polo your wardrobe has ever seen. Add it to your arsenal for an easy smart-casual look.",
+      "rating": 4.7,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw1949e979/hi-res/JEP0317NAV_MODEL_FRONT.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "22",
+      "name": "Smart Jersey Polo - White",
+      "price": 109,
+      "multibuy": "$64.75 MULTIBUY",
+      "description": "This is the most refined polo your wardrobe has ever seen. Add it to your arsenal for an easy smart-casual look.",
+      "rating": 4.7,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw98b49bf4/hi-res/JEP0317WHT_MODEL_FRONT.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "23",
+      "name": "Smart Jersey Polo - Sky Blue",
+      "price": 99,
+      "multibuy": "$64.75 MULTIBUY",
+      "description": "This is the most refined polo your wardrobe has ever seen. Add it to your arsenal for an easy smart-casual look.",
+      "rating": 4.7,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwcf982d74/hi-res/JEP0409SKY_MODEL_FRONT.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "24",
+      "name": "Tyrwhitt Pique Polo - Navy",
+      "price": 99,
+      "multibuy": "$64.75 MULTIBUY",
+      "description": "We've taken our well-loved polo shirt to the next level.",
+      "rating": 4.6,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw1292e8cf/hi-res/JEP0340NAV_MODEL_FRONT.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "25",
+      "name": "Smart Jersey Polo - Black",
+      "price": 109,
+      "multibuy": "$64.75 MULTIBUY",
+      "description": "This is the most refined polo your wardrobe has ever seen. Add it to your arsenal for an easy smart-casual look.",
+      "rating": 4.7,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwe223c6bb/hi-res/JEP0317BLK_MODEL_FRONT.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "26",
+      "name": "Tyrwhitt Pique Polo - White",
+      "price": 99,
+      "multibuy": "$64.75 MULTIBUY",
+      "description": "We've taken our well-loved polo shirt to the next level.",
+      "rating": 4.6,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwab9a7b16/hi-res/JEP0340WHT_MODEL_FRONT.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "27",
+      "name": "Tyrwhitt Pique Polo - Black",
+      "price": 99,
+      "multibuy": "$64.75 MULTIBUY",
+      "description": "We've taken our well-loved polo shirt to the next level.",
+      "rating": 4.6,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw3d695198/hi-res/JEP0340BLK_MODEL_FRONT.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "28",
+      "name": "Tyrwhitt Pique Polo - Indigo Marl",
+      "price": 99,
+      "multibuy": "$64.75 MULTIBUY",
+      "description": "We've taken our well-loved polo shirt to the next level.",
+      "rating": 4.6,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw32f155b0/hi-res/JEP0340IDG_MODEL_FRONT.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "29",
+      "name": "Smart Jersey Polo - Wine",
+      "price": 109,
+      "multibuy": "$64.75 MULTIBUY",
+      "description": "This is the most refined polo your wardrobe has ever seen. Add it to your arsenal for an easy smart-casual look.",
+      "rating": 4.7,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw102187bc/hi-res/JEP0317WNE_MODEL_FRONT.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "30",
+      "name": "Smart Jersey Polo - Petrol Blue",
+      "price": 109,
+      "multibuy": "$64.75 MULTIBUY",
+      "description": "This is the most refined polo your wardrobe has ever seen. Add it to your arsenal for an easy smart-casual look.",
+      "rating": 4.7,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwd45fe897/JEP0409PET_MODEL_FRONT.jpg?sw=960&sh=1200"
+    }
+  ],
+  "signup": [
+    {
+      "id": "542d",
+      "fname": "Jyoti Ranjan ",
+      "lname": "Pahi",
+      "email": "kjjkjtft@gmail.com",
+      "password": "Jyot@111"
+    },
+    {
+      "id": "e261",
+      "fname": "",
+      "lname": "",
+      "email": "1234566@gmail.com",
+      "password": "Mamuni@3"
+    }
+  ],
+  "cart": [
+    {
+      "id": "2",
+      "img": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw94487adb/hi-res/TRC0270DGY_MODEL_FULL.jpg?sw=860&sh=1080&sm=fit&q=42",
+      "name": "Spread Collar Non-Iron Twill Shirt - White",
+      "price": "$119"
+    },
+    {
+      "id": "1",
+      "img": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw35176377/hi-res/FON0409WHT_COLLAR_DETAIL.jpg?sw=960&sh=1200",
+      "name": "Non-Iron Twill Shirt - White",
+      "price": 119
+    },
+    {
+      "id": "3",
+      "img": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw947e3c91/hi-res/FON2620WHT_COLLAR_DETAIL.jpg?sw=960&sh=1200",
+      "name": "Spread Collar Non-Iron Stretch Kensington Weave Shirt - White",
+      "price": 129
+    }
+  ]
+}
