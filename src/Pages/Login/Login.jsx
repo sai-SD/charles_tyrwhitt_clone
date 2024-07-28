@@ -56,7 +56,7 @@ const Login = () => {
         <div className="main-content">
             <div className="main-header">My account</div>
             <div className="login-container">
-                <div className="login-box l-box">
+            <div className="login-box l-box">
                     <span>Email address</span>
                     <input className="m-size ip" name="email" type="email" value={email} onChange={(e) => setEmail(e.target.value)}/>
                     {error.email && <div id="span">{error.email}</div>}
