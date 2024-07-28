@@ -1,0 +1,123 @@
+.basicButton{
+    font-family:Futura,Arial;
+    font-weight: 400;
+    font-size:13px;
+    background-color: rgb(0,31,73);
+    color: #ffff;
+    /* line-height: 18px; */
+    border-radius: 0.3rem;
+    height:47.2px;
+    text-transform: uppercase;
+    letter-spacing: 0.07rem;
+}
+.basicButton:hover{
+    background-color: rgb(71,89,102);
+}
+
+.smallButton{
+    width:318.763px;
+}
+.mediumButton{
+    width:380px;
+}
+.largeButton{
+    width:580px;
+}
+.main-content{
+    margin:0px auto 40px;
+    font-size: 14px;
+    padding: 0px 10px;
+    
+}
+.login-container {
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.main-header{
+    color: rgb(0,31,73);
+    font-family: Arial;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28px;
+    width:90%;
+    margin: 20px 0px 60px;
+    /* position: relative; */
+    /* top: 20px; */
+    /* left: 50px; */
+    padding-left: 17.5vw;
+    /* display: block; */
+}
+.login-box{
+    display: flex;
+    justify-content:space-between;    
+    align-items:flex-start;
+    flex-direction: column;
+    gap: 13px;
+}
+.ip{
+    border: 1px solid rgb(0,31,73);
+    width: 100%;
+    height: 47.2px;
+    padding: 5px;
+    font-size: 1vw;
+    font-weight: 500;
+}
+.ip:focus{
+    border:2px solid rgb(6, 6, 85) ;
+}
+.l-box h6{
+    text-decoration: underline;
+}
+.r-box h3{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 22px;
+}
+.r-box{
+    gap:18px;
+}
+.flex-combo{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.svg{
+    width: 30px;
+}
+#span,#span2{
+    font-size: 1.2vw;
+    color: red;
+}
+@media screen and (max-width: 800px){
+    .basicButton{
+        width:100%;
+    }
+    .login-container {
+        flex-direction: column;
+        gap: 50px;
+    }
+    .login-box {
+        width: 100%;
+    }
+    .main-header{
+        margin: 20px 0px 60px 10px;
+    }
+    .ip{
+        font-size: 2vw;
+        font-weight: 500;
+        color: rgb(8, 8, 88);
+    }
+    .main-header{
+        color: rgb(0,31,73);
+        font-family: Arial;
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 28px;
+        width:90%;
+        margin: 20px 0px 60px;
+        padding-left: 1vw;
+    }
+}
+
+
