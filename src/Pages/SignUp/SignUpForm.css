@@ -1,0 +1,64 @@
+.submit-btn{
+    background-color: rgb(0, 31, 73);
+    color: white;
+    margin-top: 22px;
+    border-radius: 0px;
+}
+
+.checkbox{
+    height: 20px;
+    width: 20px;
+    margin: 3px;
+}
+
+#span1{
+    color: red;
+    font-size: 0.8vw;
+    letter-spacing: 1.5px;
+}
+
+.main-heading{
+    color: rgb(0, 31, 73);
+    font-size: larger;
+}
+
+span{
+    color: rgb(0, 31, 73)
+}
+
+/* .check{
+    border: solid 1px red;
+}
+.check1{
+    border: solid 1px rgb(19, 209, 101);
+} */
+.grey{
+    border-color: rgb(180, 176, 176);
+}
+p{
+    margin-top: 20px;
+}
+.font{
+    color: rgb(0, 31, 73);
+    font-family: 'Montserrat Variable', sans-serif;
+    font-size: 24px;
+    font-weight: 60px;
+}
+
+.size-clr{
+    color: rgb(0, 31, 73);
+}
+
+@media (max-width:800px){
+    #span1{
+        color: red;
+        font-size: 1.6vw;
+        letter-spacing: 1.5px;
+    }
+}
+
+
+
+
+
+
