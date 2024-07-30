@@ -1,5 +1,5 @@
 import React from "react";
-import './footer.css'
+import "./footer.css";
 
 const Footer = () => {
   return (
@@ -20,7 +20,7 @@ const Footer = () => {
           <nav className="footer-nav bottom-border">
             <div className="col-nav">
               <div className="item-menu">
-                <h2 class="list-title">HELP</h2>
+                <h2 className="list-title">HELP</h2>
                 <ul>
                   <li>
                     <a href="https://ctshirts-us.custhelpcom">FAQs</a>
@@ -56,7 +56,7 @@ const Footer = () => {
 
             <div className="col-nav">
               <div className="item-menu">
-                <h2 class="list-title">LEGAL</h2>
+                <h2 className="list-title">LEGAL</h2>
                 <ul>
                   <li>
                     <a href="https://www.charlestyrwhitt.com/us/terms-and-conditions.html">
@@ -99,7 +99,7 @@ const Footer = () => {
 
             <div className="col-nav">
               <div className="item-menu">
-                <h2 class="list-title">MORE INFO</h2>
+                <h2 className="list-title">MORE INFO</h2>
                 <ul>
                   <li>
                     <a href="https://www.charlestyrwhitt.com/us/about-us.html">
@@ -142,7 +142,7 @@ const Footer = () => {
 
             <div className="col-nav">
               <div className="item-menu">
-                <h2 class="list-title">CAREERS</h2>
+                <h2 className="list-title">CAREERS</h2>
                 <ul>
                   <li>
                     <a href="https://www.charlestyrwhitt.careers/jobs">
@@ -203,19 +203,12 @@ const Footer = () => {
               <ul>
                 <li>
                   <img
-                    width="50"
-                    height="31"
-                    data-src="https://www.charlestyrwhitt.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dwc61fa691/images/payment_methods/basket_visa.svg"
-                    src="https://www.charlestyrwhitt.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dwc61fa691/images/payment_methods/basket_visa.svg"
+                    width="50" height="31" src="https://www.charlestyrwhitt.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dwc61fa691/images/payment_methods/basket_visa.svg"
                   />
                 </li>
                 <li>
-                  <img
-                    width="50"
-                    height="50"
-                    data-src="https://www.charlestyrwhitt.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dwb708a05a/images/payment_methods/basket_amex.svg"
-                    alt="American Express accepted"
-                    src="https://www.charlestyrwhitt.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dwb708a05a/images/payment_methods/basket_amex.svg"
+                  <img 
+                    width="50" height="50" src="https://www.charlestyrwhitt.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dwb708a05a/images/payment_methods/basket_amex.svg"
                   />
                 </li>
                 <li>
@@ -259,9 +252,6 @@ const Footer = () => {
           </div>
           <div className="sponser-container bottom-border">
             <img
-              width="126"
-              height="55"
-              data-src="https://www.charlestyrwhitt.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw6f1c65ad/images/awards/us-footer.png"
               src="https://www.charlestyrwhitt.com/on/demandware.static/-/Library-Sites-CTShirtsSharedLibrary/default/dw6f1c65ad/images/awards/us-footer.png"
             />
           </div>
