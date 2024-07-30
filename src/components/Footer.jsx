@@ -1,10 +1,12 @@
 import React from "react";
 import "./footer.css";
+import "../App.css";
 
-const Footer = () => {
+const Footer = ({count}) => {
   return (
     <>
-      <footer className="footer">
+    <footer className={`footer ${count === 1 ? 'slide-notvisible' : 'slide-visiblee'}`}>
+      {/* <footer className="footer"> */}
         <div className="full-bar">
           <div className="fullBarContainer">
             <span className="fullBarText">
@@ -175,17 +177,17 @@ const Footer = () => {
                 <ul>
                   <li>
                     <a href="http://en-gb.facebook.com/CharlesTyrwhitt">
-                      <span class="fa fa-facebook"></span>
+                      <span className="fa fa-facebook"></span>
                     </a>
                   </li>
                   <li>
                     <a href="http://instagram.com/charlestyrwhitt">
-                      <span class="fa fa-instagram"></span>
+                      <span className="fa fa-instagram"></span>
                     </a>
                   </li>
                   <li>
                     <a href="http://twitter.com/ctshirts">
-                      <span class="fa fa-twitter"></span>
+                      <span className="fa fa-twitter"></span>
                     </a>
                   </li>
                 </ul>
