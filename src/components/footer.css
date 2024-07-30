@@ -6,7 +6,19 @@
     background-size: 13px 18px;
 }
 
-.payment-box,
+.payment-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px 0px;
+    /* font-family: sans-serif; */
+    color: rgb(0, 31, 73);
+    /* font-size: 14px; */
+    /* font-weight: 400; */
+    /* line-height: normal; */
+    /* padding: 3px 0px 3px 20px; */
+}
 .payment-container {
     display: flex;
     justify-content: center;
@@ -18,7 +30,7 @@
     font-size: 14px;
     font-weight: 400;
     line-height: normal;
-    padding: 3px 0px 3px 20px;
+    /* padding: 3px 0px 3px 20px; */
 }
 
 /* *********************************** */
@@ -29,7 +41,10 @@
     align-items: center;
     padding: 20px 0px;
 }
-
+.sponser-container img{
+    height:55px;
+    width: 126px;
+}
 .ltd-info {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -45,7 +60,6 @@
 }
 
 .payment-box ul {
-    list-style: none;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -53,6 +67,8 @@
 
 .payment-box ul li {
     list-style: none;
+    width: 50px;
+    margin: 0px 5px;
 }
 
 /* *********************************************************** */
@@ -84,8 +100,9 @@
 
 .social-media-logo ul {
     display: flex;
-    flex-direction: column;
     justify-content: left;
+    flex-direction: row;
+    gap: 10px;
 }
 
 
@@ -129,7 +146,7 @@
 .item-menu ul li {
     list-style: none;
     color: rgba(94, 94, 94);
-    font-size: 2vw;
+    font-size: 13px;
     font-style: normal;
     font-weight: 400;
     line-height: 18px;
@@ -138,9 +155,9 @@
     text-transform: uppercase;
 }
 
-@media (min-width: 800px) {
+@media screen and (min-width: 940px) {
     .main-area {
-        width: 800px;
+        width: 940px;
     }
     .col-nav {
         width: 235px;
@@ -148,11 +165,15 @@
     .item-menu h2 {
         width: 199px;
     }
-    .item-menu ul li{
-        font-size: 1vw;
+}
+@media screen and (max-width:515px){
+    .col-nav {
+        padding: 0px 0px;
+    }
+    .social-media-logo ul {
+        gap: 2px;
     }
 }
-
 /* *************************** */
 /* footer full bar css */
 .full-bar {
@@ -196,13 +217,13 @@
     border-radius: 0.15rem;
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .basicButton {
         width: 100%;
     }
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .full-bar {
         width: 100% !important;
         width: auto;
