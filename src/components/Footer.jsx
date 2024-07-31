@@ -5,8 +5,7 @@ import "../App.css";
 const Footer = ({count}) => {
   return (
     <>
-    <footer className={`footer ${count === 1 ? 'slide-notvisible' : 'slide-visiblee'}`}>
-      {/* <footer className="footer"> */}
+      <footer className={`footer ${count === 1 ? 'slide-notvisible' : 'slide-visiblee'}`}>
         <div className="full-bar">
           <div className="fullBarContainer">
             <span className="fullBarText">

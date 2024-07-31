@@ -296,21 +296,15 @@
   ],
   "cart": [
     {
-      "id": "2",
-      "img": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw94487adb/hi-res/TRC0270DGY_MODEL_FULL.jpg?sw=860&sh=1080&sm=fit&q=42",
-      "name": "Spread Collar Non-Iron Twill Shirt - White",
-      "price": "$119"
-    },
-    {
       "id": "1",
       "img": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw35176377/hi-res/FON0409WHT_COLLAR_DETAIL.jpg?sw=960&sh=1200",
       "name": "Non-Iron Twill Shirt - White",
       "price": 119
     },
     {
-      "id": "3",
-      "img": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw947e3c91/hi-res/FON2620WHT_COLLAR_DETAIL.jpg?sw=960&sh=1200",
-      "name": "Spread Collar Non-Iron Stretch Kensington Weave Shirt - White",
+      "id": "14",
+      "img": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw54b8cdf5/hi-res/TRC0279TPE_MODEL_FULL_FRONT.jpg?sw=960&sh=1200",
+      "name": "Ultimate Non-Iron Chinos - Taupe",
       "price": 129
     }
   ]
