@@ -269,6 +269,9 @@
       "description": "This is the most refined polo your wardrobe has ever seen. Add it to your arsenal for an easy smart-casual look.",
       "rating": 4.7,
       "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dwd45fe897/JEP0409PET_MODEL_FRONT.jpg?sw=960&sh=1200"
+    },
+    {
+      "id": "859b"
     }
   ],
   "signup": [
@@ -292,6 +295,20 @@
       "lname": "server",
       "email": "cse.22bcsi12@silicon.ac.in",
       "password": "Qwert@456"
+    },
+    {
+      "id": "5671",
+      "fname": "Omm",
+      "lname": "naik",
+      "email": "vvnbv@gmail.com",
+      "password": "Omm@1234"
+    },
+    {
+      "id": "d541",
+      "fname": "priyabrat ",
+      "lname": "dash",
+      "email": "priyabratdash@gmail.com",
+      "password": "Rishi.63"
     }
   ],
   "cart": [
@@ -312,6 +329,21 @@
       "img": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw947e3c91/hi-res/FON2620WHT_COLLAR_DETAIL.jpg?sw=960&sh=1200",
       "name": "Spread Collar Non-Iron Stretch Kensington Weave Shirt - White",
       "price": 129
+    },
+    {
+      "id": "4",
+      "img": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw543071a0/hi-res/FON0216WHT_COLLAR_DETAIL.jpg?sw=960&sh=1200",
+      "name": "Non-Iron Poplin Shirt - White",
+      "price": 109
+    },
+    {
+      "id": "6",
+      "name": "Non-Iron Twill Shirt - Sky Blue",
+      "price": 119,
+      "multiBuy": "$64.75 MULTIBUY",
+      "description": "With its distinctive diagonal pattern and smooth, silky finish, it's no wonder this twill is one of our bestsellers.",
+      "rating": 4.7,
+      "imgSrc": "https://www.charlestyrwhitt.com/dw/image/v2/AAWJ_PRD/on/demandware.static/-/Sites-ctshirts-master/default/dw0d12db1c/hi-res/FON0409SKY_COLLAR_DETAIL.jpg?sw=960&sh=1200"
     }
   ]
 }
